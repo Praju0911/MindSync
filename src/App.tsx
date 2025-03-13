@@ -68,7 +68,7 @@ function App() {
           <div className="max-w-3xl mx-auto text-center">
             <GraduationCap className="h-16 w-16 mx-auto mb-6" />
             <h1 className="text-4xl md:text-5xl font-bold mb-6">
-              Welcome to Presidency University Learning Platform
+              Welcome to MindSync
             </h1>
             <p className="text-xl mb-8 text-indigo-100">
               Empowering students with personalized learning experiences and collaborative opportunities.
@@ -125,7 +125,7 @@ function App() {
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-8">
         <div className="container mx-auto px-4 text-center">
-          <p>© 2025 Presidency University Learning Platform. All rights reserved.</p>
+          <p>© 2025 MindSync. All rights reserved.</p>
         </div>
       </footer>
     </div>
