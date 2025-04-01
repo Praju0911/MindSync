@@ -55,7 +55,7 @@ function App() {
     },
     {
       icon: Trophy,
-      title: "Achievement System",
+      title: "Achievement Systems",
       description: "Earn badges and certificates as you progress through your learning journey."
     }
   ];
